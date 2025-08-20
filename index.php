@@ -8,5 +8,9 @@
 <body>
     <h1>Amanda rosiki</h1>
     <h2>Bekasi, 24 maret 2008</h2>
+biodata-tambahan
+    <h3>Mendengarkan musik</h3>
+    <h3>17 tahun</h3>
+develop
 </body>
 </html>
