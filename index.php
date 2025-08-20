@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Amanda rosiki</h1>
+    <h2>Bekasi, 24 maret 2008</h2>
 </body>
 </html>
